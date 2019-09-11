@@ -15,10 +15,14 @@ Part 2:
 Modify the program to populate it with user input, using a loop.
 */
 
+
+
+
+
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Alternative {
 
     public static void main (String[] args){
 
@@ -51,7 +55,6 @@ public class Main {
                 intArr[i] = keybd.nextInt();
                 i++;
             }
-
 
             // option 3 - using a do-while loop
             i =0;
