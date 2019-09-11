@@ -16,4 +16,7 @@ Then use a for-loop (either regular or enhanced) to print each item in the array
 Modify the program to populate it with user input, using a loop. 
 		
 			
-		
+Classes in this program are:
+- WithUserInput
+- NoUserInput
+- Alternative
